@@ -116,6 +116,12 @@ LAUNCHAGENTS_DIR="$HOME/Library/LaunchAgents"
 
 MIT — see [LICENSE](LICENSE).
 
+## Related posts / 相關文章
+
+- [Claude Code 開源工具教學：用 Ralph Loop 把 skill 重構成 CLI（claude-self-sync 完整實錄）](https://yanchen.app/blog/how-i-built-claude-self-sync-with-claude/)
+- [Claude Code memory 爛筆記怎麼治？Memory 治理實戰（EP1）](https://yanchen.app/blog/memory-governance-ep1-claude-bad-notes/)
+- [Claude / AI 記不住規則怎麼辦？CLAUDE.md 紀律設計（Memory 治理 EP2）](https://yanchen.app/blog/memory-governance-ep2-rules-ai-cant-remember/)
+
 ## Acknowledgments
 
 Built after debugging cross-machine drift, accidental deletes, and hours-lost incidents.
